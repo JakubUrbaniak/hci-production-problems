@@ -5,8 +5,8 @@ Let’s start with something fun: a typeface-pairing game.
 1. Go to the TypeConnection game at http://www.typeconnection.com/. Play it until you arrive at
    three successful pairings. Record their URLs below:
 
-   1.
-   2.
+   1. www.typeconnection.com/step5/xi.php (ITC Stone Sane & ITC Cerigo)
+   2. www.typeconnection.com/step5/sh.php (Archer & Bryant)
    3.
 
 2. Next, head over to https://fonts.google.com/ and develop a pairing of Google Fonts that
@@ -24,11 +24,11 @@ Let’s start with something fun: a typeface-pairing game.
 3. Make a record of your paired typefaces here (Name and URL on Google Fonts):
 
    Typeface One:
-     - Name:
-     - URL:
+     - Name: Lora
+     - URL: https://fonts.google.com/specimen/Lora#standard-styles
    Typeface Two:
-     - Name:
-     - URL:
+     - Name: Playfair Display
+     - URL: https://fonts.google.com/specimen/Playfair+Display#about
 
 4. Next, here in the `pp-01` directory, work with the starter HTML file to set up some content to
    show off your pairing and explain briefly why you chose the typefaces you did. The most basic
