@@ -32,8 +32,13 @@ after experiencing the roughness of winter.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: #uid=35D0X0ksOrQi0z6mVtSupm8Afhb
+Your Rationale: When you think of kids, you think of short attentions spans and lots of energy.
+Thus, some kind of color scheme that is exciting and popping is needed to reel in the attention
+of them. So I chose a Red, Blue, Yellow scheme that is as bright as possible without hurting the eyes.
+The red and yellow give off a feeling of excitement, while the blue helps tame the overall feel
+of the page without taking too much of a hit. The primary colors are also a bonus for kids
+as it is easily identifiable for them.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
