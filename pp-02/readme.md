@@ -15,12 +15,15 @@ you choose. Use the Preview tab at the bottom of the palette preview.
 
 1. A **monochromatic color palette** for a site introducing a new console gaming platform
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: #uid=10i0u0kllll++ZJv+vNaGaT000r
+Your Rationale: I chose an orange-red monochromatic color for my color scheme when introducing a new gaming platform.
+I chose this color because of the excitement and energy a new console should bring to all the fans.
+Used correctly it should bring about an eye appealing and emotion eliciting experience to a user.
+Of course, the end choice for a console colors palette should be the same as the theme of the console.
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL:
+Your Palette URL: 
 Your Rationale:
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
