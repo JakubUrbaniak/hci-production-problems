@@ -23,8 +23,12 @@ Of course, the end choice for a console colors palette should be the same as the
 
 2. An **adjacent color palette** for announcing springtime tours at the Chicago Botanical Gardens
 
-Your Palette URL: 
-Your Rationale:
+Your Palette URL: #uid=52Q0R0kllll++T0w0uFaGc0002F
+Your Rationale: I chose a green-yellow-blue adjacent color scheme for a springtime feeling.
+I feel like the green brings about a feeling of what spring is, which is where grass is growing and
+nature is beginning to thrive. The yellow complements it for a similar reason of the sun shining and
+bringing about a feeling of spring warmth. And finally, the blue adds to the calming nature of spring
+after experiencing the roughness of winter.
 
 3. A **triadic color palette** for styling the login page for an app for kids to learn the alphabet
 
