@@ -42,5 +42,11 @@ as it is easily identifiable for them.
 
 4. A **custom color palette** for advertising a course on cybersecurity
 
-Your Palette URL:
-Your Rationale:
+Your Palette URL: #uid=13R0u0kCTvzbBR3omEKHal0UG6G
+Your Rationale: For the final color scheme on cybersecurity, I kept it nice and simple. While
+also keeping a regal and professional feeling. To do this I used a monochromatic blue color
+that utilizes a dichotomy of dark and light as accents. This does two things primarily.
+The first is it gives off a sense of calming and "cool" that cybersecurity sounds like it would
+give off. The second thing is that it helps symbolize and connect the dots for those who don't
+understand at first what security is. The blue is representative of the polic and protection
+which cyber is a category of security for the online world.
