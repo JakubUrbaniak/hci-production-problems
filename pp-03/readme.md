@@ -41,8 +41,12 @@ I don't expect as drastic of a color change as what I did, but I made it obvious
 lines is to include some new field of information. All of the extra information (such as prefixes) can be included in a
 settings menu after the account is created.
 
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Three (URL): https://material.io/components/banners#behavior
+* Describe how you implemented that guideline in your sketch: Instead of having the menu option on a long bar
+on the left side of the screen I created a little button that can be selected to access the same information.
+I also made the title of the page (account creation for this instance) be included in the menu. Then to make
+the screen more readable I made it so that the banner menu options vanish if you scroll down without touching the
+top of the screen, but can come back by pressing an arrow to access it.
 
 For the Production Problem discussion next week, be sure to share your sketches and chosen
 guidelines.
