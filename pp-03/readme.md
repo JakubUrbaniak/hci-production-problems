@@ -34,8 +34,12 @@ Small commits to your Production Problems repository that include:
 This will allow for the user to be taken to a link that will have all of the information that pretains to each subject
 and allow the user to choose the options. This will be a cause for less clutter on the screen.
 
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline Two (URL): https://material.io/components/text-fields
+* Describe how you implemented that guideline in your sketch: Remove some of the less necessary interface options
+and include only required information. Also created a clear divide between each section of information being inputted.
+I don't expect as drastic of a color change as what I did, but I made it obvious that the purpose behind the dividing
+lines is to include some new field of information. All of the extra information (such as prefixes) can be included in a
+settings menu after the account is created.
 
 * HCI Guideline Three (URL):
 * Describe how you implemented that guideline in your sketch:
