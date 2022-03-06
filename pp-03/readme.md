@@ -29,8 +29,10 @@ Small commits to your Production Problems repository that include:
 2. An explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline One (URL): https://m3.material.io/components/navigation-bar/guidelines
+* Describe how you implemented that guideline in your sketch: I created a small navigation icon bar on the bottom of the screen.
+This will allow for the user to be taken to a link that will have all of the information that pretains to each subject
+and allow the user to choose the options. This will be a cause for less clutter on the screen.
 
 * HCI Guideline Two (URL):
 * Describe how you implemented that guideline in your sketch:
