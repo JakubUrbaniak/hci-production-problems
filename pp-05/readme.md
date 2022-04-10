@@ -16,18 +16,18 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. https://www.plerdy.com/usability-testing-website-checklist/
+2. https://drpete.co/blog/25-point-website-usability-checklist
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1.  Adequate Text-to-Background Contrast
+2.  Font Size/Spacing Is Easy to Read
+3.  Home-page Is Digestible In 5 Seconds
+4.  Number of Buttons/Links Is Reasonable
+5.  Styles & Colors Are Consistent
+6.  Noticeable price tag
+7.  Actual quantity of goods
+8.  Important data only
+9.  Minimum of fields
+10. Minimum of trouble in case of error
